@@ -5,6 +5,6 @@ namespace Playground {
 
 	void Print() 
 	{
-		printf("Welcome to git learning");
+		printf("Welcome to git learning\n Making first change");
 	}
 }
